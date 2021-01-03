@@ -1,0 +1,19 @@
+{
+  "name": "@szxiang0217/learngit",
+  "version": "1.0.0",
+  "description": "学习Git EVERY DAY",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szxiang0217/learnGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szxiang0217/learnGit/issues"
+  },
+  "homepage": "https://github.com/szxiang0217/learnGit#readme"
+}
